@@ -11,8 +11,6 @@
 - `Phase1_Setup_And_Attack`: Setup of both attacker and victim environments, attack execution, and proofs.
 - `Phase2_SIEM_Analysis`: Logs collection, SIEM visualization, and analysis.
 - `Phase3_Defensive_Strategy`: Defense mechanism applied, retesting, and comparative analysis.
-- `Documentation`: General proofs, student info, and requirement checklist.
-
 ## 📌 Note
 
 Please refer to the `PhaseX_XXX_Report.pdf` file in each phase to find visual evidence of each step and milestone.
