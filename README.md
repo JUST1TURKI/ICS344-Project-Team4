@@ -2,7 +2,7 @@
 
 ## Team Members
 
-- TURKI ALGHURAIRI (ID: 202015760) – Phase 1 & Documentation
+- TURKI ALGHURAIRI (ID: 202015760) – Phase 1 Setup and Attacks
 - Student 2 (ID: 987654321) – Phase 2 SIEM Integration & Visualization
 - Student 3 (ID: 112233445) – Phase 3 Defense & Comparison Analysis
 
