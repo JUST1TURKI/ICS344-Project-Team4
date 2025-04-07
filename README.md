@@ -15,4 +15,4 @@
 
 ## 📌 Note
 
-Please refer to the `screenshots/` subfolders in each phase to find visual evidence of each step and milestone.
+Please refer to the `PhaseX_XXX_Report.pdf` file in each phase to find visual evidence of each step and milestone.
