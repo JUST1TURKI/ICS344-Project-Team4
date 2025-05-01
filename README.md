@@ -3,7 +3,7 @@
 ## Team Members
 
 - TURKI ALGHURAIRI (ID: 202015760) – Phase 1 Setup and Attacks
-- Student 2 (ID: 987654321) – Phase 2 SIEM Integration & Visualization
+- MOHAMMED ALZAHER (ID: 201911770) – Phase 2 SIEM Integration & Visualization
 - ALI ALABUDIB (ID: 201969410) – Phase 3 Defense & Comparison Analysis
 
 ## 📁 Repository Structure
